@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Estruturas de Dados e Análise de Algoritmos
 
 ## Descrição
@@ -54,4 +53,3 @@ atividade-02/
 ```
 
 Cada pasta contém o arquivo referente à atividade solicitada.
->>>>>>> 35da5e3f0416d76e2c9577f8e1963fa149e1f7ad
